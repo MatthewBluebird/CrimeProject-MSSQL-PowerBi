@@ -1,4 +1,4 @@
-# CrimeProject-MSSQL-PowerBi-
+# CrimeProject-MSSQL-PowerBi
 The Los Angeles Police Department (LAPD) will adopt a new Records Management System for reporting crimes and arrests. 
 
 Starting on March 7th, 2024, the Los Angeles Police Department (LAPD) will adopt a new Records Management System for reporting crimes and arrests. This new system is being implemented to comply with the FBI's mandate to collect NIBRS-only data (NIBRS — FBI - https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs). During this transition, users will temporarily see only incidents reported in the retiring system. However, the LAPD is actively working on generating new NIBRS datasets to ensure a smoother and more efficient reporting system.
